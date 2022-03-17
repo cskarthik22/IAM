@@ -18,8 +18,14 @@ The Kerberos protocol defines several components that it uses in authentication 
 ```
 ## Authentication
 ```
-Authentication is the process of confirming an identity. There are many ways to use authentication over networks: simple passwords, certificates, one-time password (OTP) tokens, biometric scans.
-
+Authentication is the process of confirming an identity. 
+There are many ways to use authentication over networks: 
+- Password based authentication a.k.a simple passwords
+- certificate based authentication
+- Kerberos authentication
+- one-time password (OTP) tokens, 
+- biometric scans.
+- Smart-card based authentication
 ```
 
 ## Identity Provider
