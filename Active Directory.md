@@ -5,6 +5,6 @@ Active Directory (AD) is a directory service developed by Microsoft to authentic
 
 Active Directory relies on three core technologies that work together:
 
-LDAP to store information about users, computers, passwords, and other resources
-Kerberos to provide secure authentication over the network
-Domain name service (DNS) to provide mappings between IP addresses and host names of computers and other devices in the network
+- LDAP to store information about users, computers, passwords, and other resources
+- Kerberos to provide secure authentication over the network
+- Domain name service (DNS) to provide mappings between IP addresses and host names of computers and other devices in the network
