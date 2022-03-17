@@ -6,3 +6,11 @@
 ```
 An identity provider (IDP) is the authoritative entity responsible for authenticating an end user.
 ```
+
+## Identity Store
+```
+An identity provider needs an identity store to retrieve users' information to use during the authentication and authorization process. Identity stores can be any type of repository: 
+- Database 
+- Lightweight Directory Access Protocol (LDAP), 
+- properties file, and so on.
+```
