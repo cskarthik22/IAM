@@ -11,5 +11,5 @@ Identity &amp; Access Management
 
 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/adfs-deep-dive-primer/ba-p/257487
 
-Public Key Certificates are called X509 certificates
-In RSA world - signing means encrypting with private key
+- Public Key Certificates are called X509 certificates
+- In RSA world - signing means encrypting with private key
